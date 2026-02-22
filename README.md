@@ -1,6 +1,6 @@
 # Top-Streaming-Platform-Churn-Rate-Analysis
 
-Welcome to the **Top Streaming Platform Chrun Analysis** repository!
+Welcome to the **Top Streaming Platform Churn Analysis** repository!
 This project demonstrates a comprehensive Churn Rate project, from cleaning Churn data to generating actionable insights. Designed as a portfolio project highlights industry best practices in data analytics.
 
 ---

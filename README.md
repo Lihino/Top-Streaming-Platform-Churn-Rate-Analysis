@@ -47,7 +47,8 @@ Develop Power BI-based dashboard analytics to deliver detailed insights into:
 - **Category of Last Login**
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
-<img width="1500" height="844" alt="image" src="https://github.com/user-attachments/assets/38202209-9758-4733-b447-44615598712d" />
+<img width="1495" height="842" alt="image" src="https://github.com/user-attachments/assets/1d099666-d3ff-4a27-9852-0169e0544ad7" />
+
 
 
 
